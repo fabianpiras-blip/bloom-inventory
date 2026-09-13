@@ -1,0 +1,7 @@
+cd /tmp/workspace/bloom-inventory
+git init
+git add .
+git commit -m "BLOOM Inventory"
+git remote add origin https://github.com/fabianpiras-blip/bloom-inventory.git
+git branch -M main
+git push -u origin main
