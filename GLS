@@ -5,3 +5,6 @@ git commit -m "BLOOM Inventory"
 git remote add origin https://github.com/fabianpiras-blip/bloom-inventory.git
 git branch -M main
 git push -u origin main
+git add render.yaml
+git commit -m "Add render.yaml for deployment"
+git push origin main
